@@ -11,3 +11,4 @@ I refactored this website's code in the following ways:
 ![Screenshot of finished project](./Screenshot.png)
 
 ## Deployed Application Link
+https://leucisticboi.github.io/online-presence-optimization/
