@@ -8,6 +8,6 @@ I refactored this website's code in the following ways:
 4. I added comments to both the CSS and HTML files.
 
 ## Screenshot
-<link href="./Screenshot.png" />
+![Screenshot of finished project](./Screenshot.png)
 
 ## Deployed Application Link
